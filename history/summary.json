@@ -22,19 +22,19 @@
     "url": "https://api.webia.io",
     "icon": "https://favicons.githubusercontent.com/api.webia.io",
     "slug": "api",
-    "status": "down",
-    "uptime": "6.06%",
-    "uptimeDay": "6.06%",
-    "uptimeWeek": "6.06%",
-    "uptimeMonth": "6.06%",
-    "uptimeYear": "6.06%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
+    "time": 536,
+    "timeDay": 536,
+    "timeWeek": 536,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2020-12-29": 0
+      "2020-12-29": 11
     }
   }
 ]
