@@ -1,7 +1,7 @@
 url: https://webia.io
-status: up
-code: 200
-responseTime: 808
-lastUpdated: 2021-02-06T23:01:57.620Z
+status: down
+code: 500
+responseTime: 419
+lastUpdated: 2021-02-07T19:19:34.285Z
 startTime: Tue Dec 29 2020 16:26:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
