@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/webia.io",
     "slug": "webia-website",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 616,
-    "timeDay": 770,
-    "timeWeek": 604,
-    "timeMonth": 603,
-    "timeYear": 616,
+    "uptime": "99.50%",
+    "uptimeDay": "80.02%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.50%",
+    "time": 612,
+    "timeDay": 674,
+    "timeWeek": 601,
+    "timeMonth": 598,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2021-02-07": 11
+      "2021-02-08": 17,
+      "2021-02-07": 270
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 457,
-    "timeDay": 510,
-    "timeWeek": 424,
-    "timeMonth": 421,
-    "timeYear": 457,
+    "time": 456,
+    "timeDay": 427,
+    "timeWeek": 426,
+    "timeMonth": 420,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2020-12-29": 11
     }
